@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+database:
+  dbname: 
+  dbuser: "dbuser"
+  dbpassword: "dbpassword"
+
+discord:
+  prefix: "~~"
+  token: "OTA1NjQ2NDQ3Njc5MTE1MjY0.YYNG-w.z7s1Nk4r0ydjNwFtjZ9-DzKC9Pc"
+
+EXAMPLE_VAR: "variable from config.yml"
+EXAMPLE_PATH: "path from config.yml"
